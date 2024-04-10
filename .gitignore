@@ -1,5 +1,11 @@
 # Incomplete files
-Python Data Analysis and Visualization/02_02_Data Structures.ipynb
+02_03_Control Flow and Built-in Functions.ipynb
+
+
+# Environment
+venv
+venv/
+
 
 # 
 *.bundle.*
